@@ -21,7 +21,7 @@ class _DemoScreenState extends State<DemoScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("New Patient Record"),
+        title: Text("Bottom Navigation Appbar"),
       ),
       body: Stack(
         children: <Widget>[
